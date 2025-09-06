@@ -59,7 +59,7 @@ app.post("/send-quote-request", async (req, res) => {
           <p>If urgent, please call us directly at <b>+91 9469845424</b>.</p>
           <br/>
           <p>Warm regards,</p>
-          <p><b>Team Azad Associates</b><br/>Seeloo, Sopore</p>
+          <p><b>Team Azad Associates</b><br/>Sopore, J&K 193201</p>
         </div>
       `
     };
